@@ -1,6 +1,6 @@
 ### 👋 Hi there, Welcome to My Repository! 
 
-!(https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
+![This is fine](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
 [![Arsxen's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsxen)](https://github.com/Arsxen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsxen&layout=compact)](https://github.com/Arsxen)
