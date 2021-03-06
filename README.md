@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hi there, Welcome to My Repository! 
 
-<!--
-**Arsxen/Arsxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
-Here are some ideas to get you started:
+[![Arsxen's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsxen)](https://github.com/Arsxen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsxen&layout=compact)](https://github.com/Arsxen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😉 About Me 
+
+My name is Archawat Silachote. You may call me "Ton". I'm a fourth-year computer science student at the Faculty of ICT, Mahidol University.
+
+## 📚 I'm currently learning ...
+
+- Golang
+- Flutter
+- Vue.js
+
+## 🔧 I'm currently working on...
+
+- Developing an AI framework for Unity game Engine.
