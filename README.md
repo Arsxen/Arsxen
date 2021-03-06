@@ -3,7 +3,7 @@
 ![This is fine](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
 [![Arsxen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsxen&theme=tokyonight&show_icons=true)](https://github.com/Arsxen)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsxen&layout=compact&hide=jupyter-notebook)](https://github.com/Arsxen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsxen&layout=compact)](https://github.com/Arsxen)
 
 ## 😉 About Me 
 
