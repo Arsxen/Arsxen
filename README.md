@@ -2,7 +2,7 @@
 
 ![This is fine](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
-[![Arsxen's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsxen)](https://github.com/Arsxen)
+[![Arsxen's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsxen&theme=radical&show_icons=true)](https://github.com/Arsxen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsxen&layout=compact)](https://github.com/Arsxen)
 
 ## 😉 About Me 
