@@ -18,3 +18,4 @@ My name is Archawat Silachote. You may call me "Ton". I'm a fourth-year computer
 ## 🔧 I'm currently working on...
 
 - Developing an AI framework for Unity game Engine.
+- Developing a [REST api](https://github.com/Arsxen/go-ieat-api) for "I Eat" application.
