@@ -12,7 +12,6 @@ My name is Archawat Silachote. You may call me "Ton". I'm a fourth-year computer
 ## 📚 I'm currently learning ...
 
 - Golang
-- Flutter
 - Vue.js
 
 ## 🔧 I'm currently working on...
